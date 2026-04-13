@@ -60,3 +60,12 @@ DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 PROCESS-NAME,com.mb.android
+# --- 新增的 Emby 线路 ---
+DOMAIN,link00.okemby.org
+DOMAIN,link01.okemby.org
+DOMAIN,yp.lyezi.cc
+DOMAIN,kuai1.lyezi.xyz
+DOMAIN,kuai2.lyezi.xyz
+DOMAIN,kuai3.lyezi.xyz
+DOMAIN,kuai5.lyezi.xyz
+DOMAIN,yz.200036.xyz

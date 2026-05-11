@@ -1,5 +1,4 @@
-payload:
-  # 【通用反代】
+# 【通用反代】
   - DOMAIN,emby.noomi.eu.cc
   - DOMAIN,fd.dirige.de5.net
   - DOMAIN,auto.dolby.dpdns.org

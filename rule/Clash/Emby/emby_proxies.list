@@ -1,44 +1,44 @@
 # 【通用反代】
-  - DOMAIN,emby.noomi.eu.cc
-  - DOMAIN,fd.dirige.de5.net
-  - DOMAIN,auto.dolby.dpdns.org
-  - DOMAIN,auto.liuerao.dpdns.org
+DOMAIN,emby.noomi.eu.cc
+DOMAIN,fd.dirige.de5.net
+DOMAIN,auto.dolby.dpdns.org
+DOMAIN,auto.liuerao.dpdns.org
 
-  # 【Okemby 专用】
-  - DOMAIN,okemby.wangjunqiang.indevs.in
-  - DOMAIN,okemby.wangjunqiang.dev
-  - DOMAIN,ok.liuerao.dpdns.org
-  - DOMAIN,ok.youko.cc.cd
-  - DOMAIN,ok.draxy.eu.cc
-  - DOMAIN,emby.enic65.eu.org
+# 【Okemby 专用】
+DOMAIN,okemby.wangjunqiang.indevs.in
+DOMAIN,okemby.wangjunqiang.dev
+DOMAIN,ok.liuerao.dpdns.org
+DOMAIN,ok.youko.cc.cd
+DOMAIN,ok.draxy.eu.cc
+DOMAIN,emby.enic65.eu.org
 
-  # 【emos 专用】
-  - DOMAIN,emos.ujmb.dpdns.org
-  - DOMAIN,emos.200038.xyz
-  - DOMAIN,emos.dolby.dpdns.org
-  - DOMAIN,emos6.dolby.dpdns.org
-  - DOMAIN,emos.biu.gv.uy
-  - DOMAIN,emos.wangjunqiang.indevs.in
-  - DOMAIN,emos.030518.xyz
-  - DOMAIN,emos.cnmbyd.xyz
-  - DOMAIN,emos.137127.xyz
-  - DOMAIN,emos.dirige.de5.net
-  - DOMAIN,yd.dirige.de5.net
-  - DOMAIN,lt.dirige.de5.net
-  - DOMAIN,emos.660990.xyz
-  - DOMAIN,emos.033388.xyz
-  - DOMAIN,emos.255432.xyz
-  - DOMAIN,emos.030666.xyz
-  - DOMAIN,pro.111196123.xyz
-  - DOMAIN,hk.f2f.pp.ua
-  - DOMAIN,rp.yang1025.dpdns.org
-  - DOMAIN,zz.zjp.dpdns.org
-  - DOMAIN,emos.1qcg.lol
-  - DOMAIN,emos.001011.de5.net
-  - DOMAIN,emos.saga8.dpdns.org
-  - DOMAIN,emos.goldenarch.qzz.io
-  - DOMAIN,emosbest.indevs.in
-  - DOMAIN,emos.12321.us.ci
-  - DOMAIN,emosemos.cc.cd
-  - DOMAIN,emby.smartstart.eu.org
-  - DOMAIN,kuai2.lyezi.xyz
+# 【emos 专用】
+DOMAIN,emos.ujmb.dpdns.org
+DOMAIN,emos.200038.xyz
+DOMAIN,emos.dolby.dpdns.org
+DOMAIN,emos6.dolby.dpdns.org
+DOMAIN,emos.biu.gv.uy
+DOMAIN,emos.wangjunqiang.indevs.in
+DOMAIN,emos.030518.xyz
+DOMAIN,emos.cnmbyd.xyz
+DOMAIN,emos.137127.xyz
+DOMAIN,emos.dirige.de5.net
+DOMAIN,yd.dirige.de5.net
+DOMAIN,lt.dirige.de5.net
+DOMAIN,emos.660990.xyz
+DOMAIN,emos.033388.xyz
+DOMAIN,emos.255432.xyz
+DOMAIN,emos.030666.xyz
+DOMAIN,pro.111196123.xyz
+DOMAIN,hk.f2f.pp.ua
+DOMAIN,rp.yang1025.dpdns.org
+DOMAIN,zz.zjp.dpdns.org
+DOMAIN,emos.1qcg.lol
+DOMAIN,emos.001011.de5.net
+DOMAIN,emos.saga8.dpdns.org
+DOMAIN,emos.goldenarch.qzz.io
+DOMAIN,emosbest.indevs.in
+DOMAIN,emos.12321.us.ci
+DOMAIN,emosemos.cc.cd
+DOMAIN,emby.smartstart.eu.org
+DOMAIN,kuai2.lyezi.xyz
